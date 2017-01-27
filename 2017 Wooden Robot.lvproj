@@ -890,9 +890,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Z900_navX_Util_LittleEndian_to_BigEndian.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_Util/Z900_navX_Util_LittleEndian_to_BigEndian.vi"/>
 				<Item Name="Z900_navX_ZeroVectorTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/_TypeDefs/Z900_navX_ZeroVectorTypeDef.ctl"/>
 				<Item Name="Zero Yaw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Yaw.vi"/>
-				<Item Name="WPI_CameraGet Frame Rate.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGet Frame Rate.vi"/>
-				<Item Name="WPI_CameraWait for Raw Image String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraWait for Raw Image String.vi"/>
-				<Item Name="WPI_CameraGet Image.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraGet Image.vi"/>
+				<Item Name="NT Flush Data Updates.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Flush Data Updates.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
