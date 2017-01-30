@@ -274,7 +274,7 @@
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="vision v4.vi" Type="VI" URL="../../../../../Desktop/vision v4.vi"/>
+			<Item Name="vision v4.vi" Type="VI" URL="../vision v4.vi"/>
 			<Item Name="Angle From Pixel.vi" Type="VI" URL="../../Angle From Pixel.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
